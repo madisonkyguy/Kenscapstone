@@ -1,2 +1,3 @@
 # Kenscapstone
 This respository is for the final capstone project for the Data Analysis Module
+I chose this project as I am an avid Sports fan and have always been amazed at the valuations that the biggest franchises in sports seem to be given.  In this project I chose to compare the two biggest sports in the US(Pro Football and Pro Basketball) to determine which of these leagues has the franchises with the greatest values.  
