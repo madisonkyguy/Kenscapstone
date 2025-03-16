@@ -39,3 +39,10 @@ Getting Started
   Install Pandas and matplotlib
   Go through this specific Jupyter notebook:  CapstoneCode.ipynb
 
+Data Dictionary
+
+|  Column Name |  Data Type |  Description                                                    |  Example Values                  |   Notes
+|              |            |                                                                 |                                  |
+|   Team       |   String   |  The name of the Franchise.                                     |  New York Knicks, Denver Broncos | This is the full name of the franchise
+|   Value      |   Float64  |  Per CNBC, the Valuation of the Frachinse                       |   9.4, 7.5                       | Rounded to one decimal
+|   Revenue    |   Float64  |  Per CNBC, the Amount of Revenue raised in 2024 by the Franchise|  781, 528                        | Whole number no decimal
