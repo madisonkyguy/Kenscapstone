@@ -46,3 +46,15 @@ Data Dictionary
 |   Team       |   String   |  The name of the Franchise.                                     |  New York Knicks, Denver Broncos | This is the full name of the franchise
 |   Value      |   Float64  |  Per CNBC, the Valuation of the Frachinse                       |   9.4, 7.5                       | Rounded to one decimal
 |   Revenue    |   Float64  |  Per CNBC, the Amount of Revenue raised in 2024 by the Franchise|  781, 528                        | Whole number no decimal
+
+Initialize Virtual Environment
+
+In order to test my code, you will need to do via a virutal environment.  Please follow the instructions below:
+Clone the repository: https://github.com/madisonkyguy/Kenscapstone to a directory for this project in your terminal.
+Within the project folder, run this command in the terminal: python -m venv classvm
+Next install the required dependencies: pip install -r requirements.txt
+At this time, you should be able to activate the Virtual environment for your testing
+Run the file: https://github.com/madisonkyguy/Kenscapstone/blob/main/Capstone%20Code.ipynb
+In order to exit out of the virtual environment, please type deactivate
+
+Feel free to leave feedback as I love to hear what you think
