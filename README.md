@@ -42,7 +42,8 @@ I then developed a data dictionary that can be used by future developers to see 
            I created a Virtual environment for other developers to use to test my code and included the instructions on how to initialize, utilize and then deactivate the virtual environment
 
            
-# Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit -  
+# Annotate your code with markdown cells in Jupyter Notebook,
+  write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit:
 
  Throughout my code I included Markdown boxes to explain what each part of my code was going to do
 
@@ -53,7 +54,7 @@ I then developed a data dictionary that can be used by future developers to see 
   Go through this specific Jupyter notebook:  CapstoneCode.ipynb
 
 
- # Data Dictionary
+ # Data Dictionary  (utilized ChatGPT to get structure correct for Readme)
 
 | Field Name | Type   | Description                                   | Example            |
 |------------|--------|-----------------------------------------------|--------------------|
@@ -65,11 +66,12 @@ I then developed a data dictionary that can be used by future developers to see 
 # Initialize Virtual Environment
 
 In order to test my code, you will need to do via a virutal environment.  Please follow the instructions below:
-Clone the repository: https://github.com/madisonkyguy/Kenscapstone to a directory for this project in your terminal.
-Within the project folder, run this command in the terminal: python -m venv classvm
-Next install the required dependencies: pip install -r requirements.txt
-At this time, you should be able to activate the Virtual environment for your testing
-Run the file: https://github.com/madisonkyguy/Kenscapstone/blob/main/Capstone%20Code.ipynb
-In order to exit out of the virtual environment, please type deactivate
+
+1. Clone the repository: https://github.com/madisonkyguy/Kenscapstone to a directory for this project in your terminal.
+2. Within the project folder, run this command in the terminal: python -m venv classvm
+3. Activate the Virtual environment by typing source classvm/Scripts/activate
+4. Next install the required dependencies: pip install -r requirements.txt
+5. Run the file: https://github.com/madisonkyguy/Kenscapstone/blob/main/Capstone%20Code.ipynb
+6. Exit out of the virtual environment by typing the word deactivate
 
 Feel free to leave feedback as I love to hear what you think
