@@ -52,15 +52,15 @@ I then developed a data dictionary that can be used by future developers to see 
   Install Pandas and matplotlib
   Go through this specific Jupyter notebook:  CapstoneCode.ipynb
 
-# Data Dictionary
 
- |  Field Name | Type   | Description                                   | Example          |
- |----------------------------------------------------------------------------------------
- |  Team Name  | String  | The name of the Franchise                    | New York Knicks  |
- |  Value      | Float   | The amount the Franchise is worth            | $5.1B            |
- |  Revenue    | Float   | The amount the Frachise has earned           | $546M            |
+ # Data Dictionary
 
- 
+| Field Name | Type   | Description                                   | Example            |
+|------------|--------|-----------------------------------------------|--------------------|
+| Team Name  | String | The name of the Franchise                     | New York Knicks    |
+| Value      | Float  | The amount the Franchise is worth             | $5.1B              |
+| Revenue    | Float  | The amount the Franchise has earned           | $546M              |
+
 
 # Initialize Virtual Environment
 
