@@ -50,9 +50,9 @@ I then developed a data dictionary that can be used by future developers to see 
 
 # Getting Started
 
-  Clone the following repository in Github:  https://github.com/madisonkyguy/Kenscapstone
-  Install Pandas and matplotlib
-  Go through this specific Jupyter notebook:  CapstoneCode.ipynb
+ 1. Clone the following repository in Github: https://github.com/madisonkyguy/Kenscapstone
+ 2. Install Pandas and matplotlib
+ 3. Go through this specific Jupyter notebook:  CapstoneCode.ipynb
 
 
  # Data Dictionary 
