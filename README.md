@@ -1,9 +1,9 @@
 # Kenscapstone
-#Overview
+# Overview
 This respository is for the final capstone project for the Data Analysis Module
 I chose this project as I am an avid Sports fan and have always been amazed at the valuations that the biggest franchises in sports seem to be given.  In this project I chose to compare the two biggest sports in the US(Pro Football and Pro Basketball) to determine which of these leagues has the franchises with the greatest values.  As as an aside, I also did some comparisons of the franchises and their Revenues.
 
-#Data
+# Data
 
 I pulled the datasets I used from two datasets located in the following locations:
 
@@ -13,16 +13,16 @@ https://www.cnbc.com/2024/09/05/official-nfl-team-valuations-2024.html
 
 Inside the datasets above contained information for the following:  The Franchises, their current Valuation and the Revenue they have made over the past year
 
-#Project Structure
+# Project Structure
 
 I utilize a Jupyter notebook to incorporate the datasets in Python
 Once I imported the datasets, I used Python and the packages provided by Pandas to do some clean up of the data as well as some calculations with that data
 I then utilized Matplotlib to develop some visualizations using Graphs to demonstrate what my calculations were showing
 I then developed a data dictionary that can be used by future developers to see how the values are designated in these datasets as well as some Unit Tests so it can be tested and verified that it is indeed functioning
 
-#Features I utilized in this project
+# Features I utilized in this project
 
-#Feature:  Read Two Data Files - I used 2 CSV files from the above URLS
+# Feature:  Read Two Data Files - I used 2 CSV files from the above URLS
            
            #Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set -  
            
@@ -41,17 +41,17 @@ I then developed a data dictionary that can be used by future developers to see 
            I created a Virtual environment for other developers to use to test my code and included the instructions on how to initialize, utilize and then deactivate the virtual environment
 
            
-#Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit -  
+# Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit -  
 
  Throughout my code I included Markdown boxes to explain what each part of my code was going to do
 
-#Getting Started
+# Getting Started
 
   Clone the following repository in Github:  https://github.com/madisonkyguy/Kenscapstone
   Install Pandas and matplotlib
   Go through this specific Jupyter notebook:  CapstoneCode.ipynb
 
-#Data Dictionary
+# Data Dictionary
 
 |  Column Name |  Data Type |  Description                                                    |  Example Values                  |   Notes
 |              |            |                                                                 |                                  |
@@ -59,7 +59,7 @@ I then developed a data dictionary that can be used by future developers to see 
 |   Value      |   Float64  |  Per CNBC, the Valuation of the Frachinse                       |   9.4, 7.5                       | Rounded to one decimal
 |   Revenue    |   Float64  |  Per CNBC, the Amount of Revenue raised in 2024 by the Franchise|  781, 528                        | Whole number no decimal
 
-#Initialize Virtual Environment
+# Initialize Virtual Environment
 
 In order to test my code, you will need to do via a virutal environment.  Please follow the instructions below:
 Clone the repository: https://github.com/madisonkyguy/Kenscapstone to a directory for this project in your terminal.
