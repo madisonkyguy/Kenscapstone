@@ -1,4 +1,5 @@
-# Kenscapstone
+# Ken's Franchise Valuation Capstone project
+
 # Overview
 This respository is for the final capstone project for the Data Analysis Module
 I chose this project as I am an avid Sports fan and have always been amazed at the valuations that the biggest franchises in sports seem to be given.  In this project I chose to compare the two biggest sports in the US(Pro Football and Pro Basketball) to determine which of these leagues has the franchises with the greatest values.  As as an aside, I also did some comparisons of the franchises and their Revenues.
@@ -53,11 +54,11 @@ I then developed a data dictionary that can be used by future developers to see 
 
 # Data Dictionary
 
-|  Column Name |  Data Type |  Description                                                    |  Example Values                  |   Notes
-|              |            |                                                                 |                                  |
-|   Team       |   String   |  The name of the Franchise.                                     |  New York Knicks, Denver Broncos | This is the full name of the franchise
-|   Value      |   Float64  |  Per CNBC, the Valuation of the Frachinse                       |   9.4, 7.5                       | Rounded to one decimal
-|   Revenue    |   Float64  |  Per CNBC, the Amount of Revenue raised in 2024 by the Franchise|  781, 528                        | Whole number no decimal
+ |  Field Name | Type   | Description                                   | Example
+ |
+ |  Team Name  | String  | The name of the Franchise                    | New York Knicks
+ |  Value      | Float   | The amount the Franchise is worth            | $5.1B
+ |  Revenue    | Float   | The amount the Frachise has earned           | $546M
 
 # Initialize Virtual Environment
 
