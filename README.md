@@ -19,9 +19,9 @@ Inside the datasets above contained information for the following:  The Franchis
 I utilize a Jupyter notebook to incorporate the datasets in Python
 Once I imported the datasets, I used Python and the packages provided by Pandas to do some clean up of the data as well as some calculations with that data
 I then utilized Matplotlib to develop some visualizations using Graphs to demonstrate what my calculations were showing
-I then developed a data dictionary that can be used by future developers to see how the values are designated in these datasets as well as some Unit Tests so it can be tested and verified that it is indeed functioning
+I then developed a data dictionary that can be used by future developers to see how the values are designated in these datasets as well as a virtual environment so it can be tested and verified that it is indeed functioning
 
-# Features I utilized in this project
+Features I utilized in this project
 
 # Feature:  Read Two Data Files - I used 2 CSV files from the above URLS
            
