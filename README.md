@@ -27,24 +27,24 @@ I then developed a data dictionary that can be used by future developers to see 
 
  I used 2 CSV files from the above URLS
            
- **Feature** Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set -  
+ **Feature**: Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set -  
            
   I cleaned my data by removing some unnecessary columns from each CSV and then I joined them using Pandas on the 'Value' column.  I then performed 3 different calculations using panda functions on the 'Value' and 'Revenue' columns
 
- **Feature** Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data:  
+ **Feature** : Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data:  
            
   I created 3 seprate graphs in my code using matplotlib functions to illustrate what my data was meant to show
 
-  **Feature** Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set. For an example, see the resources to the right 
+  **Feature**:  Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set. For an example, see the resources to the right 
            
   I created a Data Dictionary that could be used by future developers to determine what the data types will be in this code.  I included this dictionary in my Read Me file
 
-  **Feature** Utilize a virtual environment and include instructions in your README on how the user should set one up
+  **Feature**: Utilize a virtual environment and include instructions in your README on how the user should set one up
 
   I created a Virtual environment for other developers to use to test my code and included the instructions on how to initialize, utilize and then deactivate the virtual environment
 
            
-** Feature**  Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit:
+**Feature**: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit:
 
  Throughout my code I included Markdown boxes to explain what each part of my code was going to do
 
@@ -55,7 +55,8 @@ I then developed a data dictionary that can be used by future developers to see 
   Go through this specific Jupyter notebook:  CapstoneCode.ipynb
 
 
- # Data Dictionary  (utilized ChatGPT to get structure correct for Readme)
+ # Data Dictionary 
+ Note: utilized ChatGPT to get structure correct for Readme
 
 | Field Name | Type   | Description                                   | Example            |
 |------------|--------|-----------------------------------------------|--------------------|
