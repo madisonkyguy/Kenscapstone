@@ -54,11 +54,13 @@ I then developed a data dictionary that can be used by future developers to see 
 
 # Data Dictionary
 
- |  Field Name | Type   | Description                                   | Example
- |
- |  Team Name  | String  | The name of the Franchise                    | New York Knicks
- |  Value      | Float   | The amount the Franchise is worth            | $5.1B
- |  Revenue    | Float   | The amount the Frachise has earned           | $546M
+ |  Field Name | Type   | Description                                   | Example          |
+ |----------------------------------------------------------------------------------------
+ |  Team Name  | String  | The name of the Franchise                    | New York Knicks  |
+ |  Value      | Float   | The amount the Franchise is worth            | $5.1B            |
+ |  Revenue    | Float   | The amount the Frachise has earned           | $546M            |
+
+ 
 
 # Initialize Virtual Environment
 
